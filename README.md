@@ -21,6 +21,6 @@ API para buscar Cep's.
 
 
 /**Console**/<br>
-Endereco{codigoRetorno=2, descricaoRetorno='sucesso - cep único', uf='SC', cidade='Araranguá', bairro='', tipoLogradouro='', logradouro=''}
-Endereco{codigoRetorno=2, descricaoRetorno='sucesso - cep único', uf='SC', cidade='Araranguá', bairro='', tipoLogradouro='', logradouro=''}
-Endereco{codigoRetorno=2, descricaoRetorno='sucesso - cep único', uf='SC', cidade='Araranguá', bairro='', tipoLogradouro='', logradouro=''}
+Endereco{codigoRetorno=2, descricaoRetorno='sucesso - cep único', uf='SC', cidade='Araranguá', bairro='', tipoLogradouro='', logradouro=''}<br>
+Endereco{codigoRetorno=2, descricaoRetorno='sucesso - cep único', uf='SC', cidade='Araranguá', bairro='', tipoLogradouro='', logradouro=''}<br>
+Endereco{codigoRetorno=2, descricaoRetorno='sucesso - cep único', uf='SC', cidade='Araranguá', bairro='', tipoLogradouro='', logradouro=''}<br>
