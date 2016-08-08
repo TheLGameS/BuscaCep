@@ -1,4 +1,4 @@
-package br.vilarinho;
+package br.vilarinho.cep;
 
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;

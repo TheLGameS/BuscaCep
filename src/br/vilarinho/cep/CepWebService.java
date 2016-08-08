@@ -1,4 +1,4 @@
-package br.vilarinho;
+package br.vilarinho.cep;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
